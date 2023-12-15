@@ -11,7 +11,7 @@
 ### Key Findings:
 
 Facebook Ads dominance: Facebook Ads achieved a significantly higher average conversion rate, nearly twice that of Google AdWords, validating the initial hypothesis.
-Click-to-conversion insights: The linear regression model revealed a strong positive correlation of **0.8737750149** between Facebook ad clicks and conversions, indicating the platform's effectiveness in driving qualified leads.
+Click-to-conversion insights: The linear regression model revealed a strong positive correlation of **0.873** between Facebook ad clicks and conversions, indicating the platform's effectiveness in driving qualified leads.
 
 **Impact:**
 Data-driven budget allocation: This analysis will help in devising a revised campaign strategy, allocating a larger budget share to Facebook Ads based on its superior conversion performance and predictable scalability.
