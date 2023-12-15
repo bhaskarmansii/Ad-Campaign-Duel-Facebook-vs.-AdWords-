@@ -15,3 +15,6 @@ Click-to-conversion insights: The linear regression model revealed a strong posi
 
 **Impact:**
 Data-driven budget allocation: This analysis will help in devising a revised campaign strategy, allocating a larger budget share to Facebook Ads based on its superior conversion performance and predictable scalability.
+
+
+Here's a Google sheet link: https://docs.google.com/spreadsheets/d/1GKYSsl8nugxGtYPJAKKxN0bm1qanD0Z5b9tBjAtkykA/edit#gid=1369883876 
