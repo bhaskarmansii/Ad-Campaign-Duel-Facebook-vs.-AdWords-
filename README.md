@@ -1,8 +1,7 @@
 ## Ad Campaign Duel-Facebook vs.AdWords
 
-The analysis is performed using Excel
 
-**Approach:** Performed a comprehensive analysis of 365 days of daily campaign data:
+**Approach:** Performed a comprehensive analysis of 365 days of daily campaign data using Excel:
 
 **Click and conversion data:** Compared daily clicks and conversion rates for each platform.
 **Statistical testing:** Employed t-tests to identify statistically significant differences in performance between Facebook Ads and Google AdWords.
