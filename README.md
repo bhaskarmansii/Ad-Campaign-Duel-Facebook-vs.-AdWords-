@@ -4,7 +4,9 @@
 **Approach:** Performed a comprehensive analysis of 365 days of daily campaign data using Excel:
 
 **Click and conversion data:** Compared daily clicks and conversion rates for each platform.
+
 **Statistical testing:** Employed t-tests to identify statistically significant differences in performance between Facebook Ads and Google AdWords.
+
 **Regression modelling:** Built a simple linear regression model to predict Facebook ad conversions based on ad clicks, providing valuable insights into campaign scalability and budget allocation.
 
 
